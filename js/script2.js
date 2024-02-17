@@ -9,8 +9,10 @@
         finalValue.innerText = value;
     };
 
-    {
-        const money = document.querySelector(".js-currency")
+    const init = () => {
+        const money = document.querySelector(".js-currency");
         money.addEventListener("submit", calculateValue)
-    }
+    };
+
+    init();
 }
