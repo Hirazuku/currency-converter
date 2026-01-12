@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "My-virtual-CV"
+		"liveServer.settings.multiRootWorkspaceName": "My-virtual-CV",
+		"liveServer.settings.port": 5501
 	}
 }
